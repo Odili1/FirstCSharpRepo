@@ -57,6 +57,3 @@ public class Cat(string firstName) : Pet(firstName)
 {
     public override string MakeNoise() => "Meow";
 }
-
-
-Console.WriteLine("Hello, Odili!");
